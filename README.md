@@ -6,4 +6,4 @@ El script "Uria_TP_Integrador.R" contiene el código necesario para realizar tod
 El documento en pdf es el informe del trabajo, describiendo la base de datos utilizada y detallando las decisiones de análisis, conteniendo además la explicación de los distintos resultados de los modelos que aparecen en R.
 
 
-PD: disfruté mucho de la clase y excedió mi expectativas! Los temas se expusieron de forma accesible y me voy con la sensación de saber cómo aplicar las herramientas a problemas concretos. Gracias Ian!
+_PD: disfruté mucho de la clase y excedió mi expectativas! Los temas se expusieron de forma accesible y me voy con la sensación de saber cómo aplicar las herramientas a problemas concretos. Gracias Ian!_
